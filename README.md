@@ -1,3 +1,3 @@
 # storybook_sample
 
-[![Alt Text](./Animation.gif)]
+![Alt Text](./Animation.gif)
